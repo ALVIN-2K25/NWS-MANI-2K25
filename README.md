@@ -34,7 +34,7 @@
 
 ## **`DEPLOYMENT METHODS 👇`**
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/MANTHILA-LK-2K24/MANI-NEWS-BOT-2K24&template=https://github.com/MANTHILA-LK-2K24/MANI-NEWS-BOT-2K24.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/ALVIN-2K25/NWS-MANI-2K25&template=https://github.com/ALVIN-2K25/NWS-MANI-2K25.git)
 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/5_3enq)
